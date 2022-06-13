@@ -1,5 +1,5 @@
 export function cheer() {
 
-  console.log('EpickyNazev');
+  console.log('javascript');
 
 };
