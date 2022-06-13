@@ -1,5 +1,5 @@
 export function cheer(parameter) {
 
-  console.log('javascript');
+  console.log('cheer for the ' + parameter);
 
 };
