@@ -1,6 +1,6 @@
 'use strict';
 
 export function future() {
-  console.log('horoscope sign');
+  console.log('Chinese sign');
 }
 
