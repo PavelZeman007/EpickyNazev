@@ -1,6 +1,6 @@
 'use strict';
 
 export function future() {
-  console.log('Chinese horoscope sign');
+  console.log('your future looks dire');
 };
-
+//dunno how to use params here
