@@ -1,6 +1,6 @@
 'use strict';
 
 export function future() {
-  console.log('Chinese sign');
+  console.log('Chinese');
 }
 
