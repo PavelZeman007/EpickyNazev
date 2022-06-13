@@ -1,5 +1,5 @@
-function count(req, secRes){
-    console.log(req , secRes);
-}
+function count(req){
+    console.log(`Counting the countless ${req}`);
+
 
 export {count}
