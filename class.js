@@ -1,5 +1,5 @@
 function count(req){
-    console.log("my age is 26");
+    console.log("I was born in April");
 }
 
 export {count}
