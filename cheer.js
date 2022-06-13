@@ -1,4 +1,4 @@
-export function cheer() {
+export function cheer(oneParameter) {
 
   console.log('javascript');
 
