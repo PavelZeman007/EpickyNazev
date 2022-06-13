@@ -1,6 +1,7 @@
 'use strict';
 
-export function future() {
-  console.log('horoscope sign');
+//super awesome function that is super complex
+export function future(inputParam) {
+  console.log('horoscope sign with inputed parameter: ' + inputParam);
 }
 
