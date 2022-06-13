@@ -1,5 +1,5 @@
-export function cheer(parameter) {
+export function cheer(paramOne, paramTwo) {
 
-  console.log('javascript');
+  console.log(`Printing ${paramOne} and ${paramTwo}`);
 
 };
