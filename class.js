@@ -1,5 +1,5 @@
 function count(req){
-    console.log("I was born in April long time ago");
+    console.log(`Counting the countless ${req}`);
 }
 
 export {count}
